@@ -1,3 +1,11 @@
+a- Dentro del repositorio Forkeado, arriba a la derecha tenemos la opcion "Fetch upstream" que es una herramienta que nos permite actualizar nuestro repositorio, si el original presenta alguna modificacion.
+
+b- No, al intentar forkear el mismo repositorio forkeado desde ALFA, me redirecciona a mi repositorio forkeado desde BETA.
+
+c- No, GAMMA es redireccionado al repositorio base, osea al mio.
+
+d- No
+
 e-
 git clone https://github.com/Matias478/TP_SO_i2_Equipo102.git
 cd TP_SO_i2_Equipo102/
