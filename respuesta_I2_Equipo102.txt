@@ -5,3 +5,15 @@ b- No, al intentar forkear el mismo repositorio forkeado desde ALFA, me redirecc
 c- No, GAMMA es redireccionado al repositorio base, osea al mio.
 
 d- No
+
+e-
+git clone https://github.com/Matias478/TP_SO_i2_Equipo102.git
+cd TP_SO_i2_Equipo102/
+hostname -I >> fork.txt 
+date +%T >> fork.txt
+git status
+git add .
+git commit -m "ALFA "
+git push
+git pull *para traer lo que se actualizo del repo*
+boton fetch and merge *para actualizar lo que hay en el repositorio de BETA*
